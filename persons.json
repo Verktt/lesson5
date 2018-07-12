@@ -1,0 +1,5 @@
+[
+	{"ID":1,"lastName":"Михаил","firstName":"Берлиоз","city":"Москва","addres":{"home":302,"apartament":50}},
+	{"ID":2,"lastName":"Иван","firstName":"Бездомный","city":"Москва","addres":{"home":"МАССОЛИТ","apartament":"Палата 6"}},
+	{"ID":3,"lastName":"Мастер","firstName":"Неизвестно","city":"Москва","addres":{"home":"Подвал","apartament":"Мастерская"}}
+]
