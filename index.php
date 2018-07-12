@@ -4,7 +4,6 @@
 	$persons = json_decode($jsonString, true);
 ?>
 
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -44,9 +43,6 @@
 			</tr>
 			<?php } ?>
 		</tbody>
-
 	</table>
-
-
 </body>
 </html>	
